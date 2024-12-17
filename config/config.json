@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "angelbackend",
+    "password": "meowscarada",
+    "database": "escuela2",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "angelbackend",
+    "password": "meowscarada",
+    "database": "escuela2",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "angelbackend",
+    "password": "meowscarada",
+    "database": "escuela2",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
